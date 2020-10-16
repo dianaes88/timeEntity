@@ -6,7 +6,7 @@
 > postgresql \
 > database username = {your username}\
   database password = {your password}\
-  Change these parameters in the file which named postgres.properties\
+  Change these parameters in the postgres.properties\
 > Data Base with a name te_bd
 
 ### Test TimeEntryRestController (application deployed in application context `timeentry`).
